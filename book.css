@@ -4,13 +4,13 @@ body {
 	width: 560px;
 	margin: 0 auto;
 	padding: 1em;
-	border: 1px solid navy;
+	border: 2px solid navy;
 }
 h1 {
 	margin: 0;
 	padding: .25em;
 	font-size: 200%;
-	color: red;
+	color: red(255, 0, 0);
 }
 img  {
 	float: right;
